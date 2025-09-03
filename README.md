@@ -62,13 +62,6 @@ mask = cv2.inRange(hsv_frame, lower_blue, upper_blue)
 
 ---
 
-## 🖼️ Demo
-
-![Invisibility Cloak Demo](https://user-images.githubusercontent.com/placeholder/demo.gif)
-*(Replace with your own screenshot or GIF)*
-
----
-
 ## 🚀 Run
 
 ```bash
