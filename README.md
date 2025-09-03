@@ -66,7 +66,7 @@ mask = cv2.inRange(hsv_frame, lower_blue, upper_blue)
 
 ```bash
 # Step 1: Capture background
-python capture_background.py
+python background.py
 
 # Step 2: Start cloak effect
 python invisible_cloak.py
@@ -86,9 +86,5 @@ python invisible_cloak.py
 
 This project is open-source and free to use for educational purposes.
 
-```
 
----
 
-👉 Do you want me to also **separate your code into two clean files** (`capture_background.py` and `invisible_cloak.py`) so that it matches this README structure?
-```
